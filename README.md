@@ -6,6 +6,6 @@ This is done as part of Spotle AI-thon,2020 for classifying 48*48 grey scale fac
 ![Alt text](results/train_test_chart.PNG?raw=true "Title")
 
 # Prediction
-<p> A sample prediction is shown. [0 1 0] predicted is mapped to the class "Happy" </p><br/>
+ A sample prediction is shown. [0 1 0] predicted is mapped to the class "Happy" <br/>
 ![Alt text](results/predicted_happy.PNG?raw=true "Title")
 
